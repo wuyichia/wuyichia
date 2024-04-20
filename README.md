@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuyichia
-- 👀 I’m interested in Robotics, Embedded Systems, ML
-- 🌱 I’m currently learning C++, Computer Vision, Motion Planning, Android
+- 👀 I’m interested in C++, Python, Embedded Systems, ML
+- 🌱 I’m currently learning GPU, Embedded Systems, ML, Computer Vision
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me e.yichiawu@gmail.com
 
